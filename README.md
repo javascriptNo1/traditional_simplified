@@ -23,6 +23,10 @@ console.log(language.simplified('繁體轉簡體'))  //繁体转简体
 ```html
  <script src="language.js"></script>
 ```
+# 下载地址
+[https://github.com/javascriptNo1/traditional_simplified](https://github.com/javascriptNo1/traditional_simplified)
+
+[https://www.wuzhenlu.cn/article.html?id=5c4bff5a66a4f70aa44f373f](https://www.wuzhenlu.cn/article.html?id=5c4bff5a66a4f70aa44f373f)
 
 # Usage
 ```js
