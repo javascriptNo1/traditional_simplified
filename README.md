@@ -1,5 +1,4 @@
-# traditional_simplified
-简繁体转换
+# 简繁体转换
 
 
 # npm
